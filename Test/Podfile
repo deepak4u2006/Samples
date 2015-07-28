@@ -3,7 +3,8 @@
 
 target 'Test' do
 pod "AFNetworking", "~>2"
-
+pod "SDWebImage", "~>3"
+pod 'FXBlurView', '~> 1.6'
 end
 
 target 'TestTests' do
